@@ -1,4 +1,4 @@
-"_- Tekno Logic ~ TRIBΞHOLZ -_'
+"_- Umau | MIDI SESSION #1 ~ ΛRRO -_'
 ================================================.
      .-.   .-.     .--.                         |
     | OO| | OO|   / _.-' .-.   .-.  .-.   .''.  |
@@ -240,3 +240,4 @@ with_fx :ping_pong, feedback: 0.25, phase: 0.5 do
     end
   end
 end
+
