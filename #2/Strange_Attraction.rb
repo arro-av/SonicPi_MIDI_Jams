@@ -1,5 +1,5 @@
 "
-_- Strange Attraction ~ [Chaotic Algorithms] by TRIBΞHOLZ -_'
+_- Strange Attraction ~ MIDI SESSION #2 ~ ΛRRO -_'
 _-_-__--_-_--__-_--__-___--_-_--_--_-_-_-__-."
 #---------------------------------------------------------
 #PRESETS
@@ -17,7 +17,7 @@ end
 
 #---------------------------------------------------------
 #SAMPLES
-s_path = "C:/Users/rober/Desktop/SOUND/Tracks/Strange Attraction/Samples"
+s_path = "C:/Users/Your/Sample/Path"
 
 s = {
   kick: "#{s_path}/kick.wav",
@@ -356,4 +356,5 @@ live_loop :vocal, sync: :metro do
       #end
     end
   end
+
 end
