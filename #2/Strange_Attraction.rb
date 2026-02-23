@@ -1,5 +1,5 @@
 "
-_- Strange Attraction ~ MIDI SESSION #2 ~ ΛRRO -_'
+_- Strange Attraction | MIDI SESSION #2 ~ ΛRRO -_'
 _-_-__--_-_--__-_--__-___--_-_--_--_-_-_-__-."
 #---------------------------------------------------------
 #PRESETS
@@ -358,3 +358,4 @@ live_loop :vocal, sync: :metro do
   end
 
 end
+
